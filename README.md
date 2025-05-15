@@ -14,3 +14,5 @@ Ini adalah repository untuk menyimpan code, dan penjelasannya yang digunakan unt
 ## Our Supervisor
 - Dr. Purba Daru Kusuma, S.T., M.T.
 - Roswan Latuconsina, S.T., M.T
+
+You can view and read the code's detail in their corresponding type
