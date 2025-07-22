@@ -6,7 +6,7 @@ Ini adalah repository untuk menyimpan code dan penjelasannya yang digunakan untu
 
 Sistem web untuk membantu dosen wali dalam memantau dan mitigasi dini mahasiswa yang berisiko mengalami masalah akademik, psikologis, dan finansial di Universitas Telkom.
 
-🌐 **Live Demo**: [https://capstone-frontend-1059248723043.asia-southeast1.run.app](https://capstone-frontend-1059248723043.asia-southeast1.run.app)
+🌐 **Live Demo**: [MITIGASI](https://capstone-frontend-1059248723043.asia-southeast1.run.app)
 
 ### About
 
@@ -99,7 +99,7 @@ MITIGASI adalah solusi digital untuk mengatasi tingginya angka dropout mahasiswa
 
 ## 📖 Documentation
 
-- **Manual Book**: [View Documentation](link-to-manual-book)
+- **Manual Book**: [View Documentation](https://github.com/miftahfrdmaulana/CapstoneDesgin_MITIGASI/blob/main/Manual%20Book%20MITIGASI.pdf)
 - **API Documentation**" Available in `/backend` folder
 - **ML Model Details**: Available in `/Machine Learning` folder
 
